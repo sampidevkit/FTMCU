@@ -1,0 +1,165 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "894575b3-04b4-4de6-be3b-d3e95898aa4c")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 89.535 31.75)
+		(size 33.655 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 217 255 191 1.0000)
+		)
+		(uuid "0d5a93cf-7d90-4a0d-9179-334af185828b")
+		(property "Sheetname" "VCP"
+			(at 89.535 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "VCP.kicad_sch"
+			(at 89.535 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UMFTPD2A"
+				(path "/894575b3-04b4-4de6-be3b-d3e95898aa4c"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 40.005 31.115)
+		(size 34.925 39.37)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 217 255 191 1.0000)
+		)
+		(uuid "44d66852-8e77-4050-8ef5-00384e51eea2")
+		(property "Sheetname" "USBHUB"
+			(at 40.005 30.4034 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "USBHUB.kicad_sch"
+			(at 40.005 71.0696 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UMFTPD2A"
+				(path "/894575b3-04b4-4de6-be3b-d3e95898aa4c"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 139.7 31.75)
+		(size 33.655 38.1)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 217 255 191 1.0000)
+		)
+		(uuid "7b3ac816-e685-4a3e-801d-f94612fd124e")
+		(property "Sheetname" "TERMINALS"
+			(at 139.7 31.0384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "THERMINALS.kicad_sch"
+			(at 139.7 70.4346 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UMFTPD2A"
+				(path "/894575b3-04b4-4de6-be3b-d3e95898aa4c"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 89.535 82.55)
+		(size 33.655 29.21)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 217 255 191 1.0000)
+		)
+		(uuid "f1b7b6c4-da7e-40d5-8b7f-7a53d131890d")
+		(property "Sheetname" "PSU"
+			(at 89.535 81.8384 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "PSU.kicad_sch"
+			(at 89.535 112.3446 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "UMFTPD2A"
+				(path "/894575b3-04b4-4de6-be3b-d3e95898aa4c"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
